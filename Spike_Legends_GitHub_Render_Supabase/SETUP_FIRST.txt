@@ -1,0 +1,16 @@
+SPIKE LEGENDS — EXACTLY LIKE BARRICADE / POTATO
+
+1) EXTRACT this ZIP
+2) GitHub: new repository spike-legends > Add file > Upload files
+3) Drag ALL CONTENTS of extracted folder, keeping public/ and supabase/ folders
+4) Commit changes
+5) Render: New > Web Service > connect GitHub spike-legends
+6) Build Command: npm install
+7) Start Command: npm start
+8) Open the onrender.com URL
+9) OPTIONAL cloud saving: Supabase > run supabase/OPTIONAL_CLOUD_SAVE.sql
+   > enable Anonymous Sign-Ins > add SUPABASE_URL and SUPABASE_PUBLISHABLE_KEY
+   to your Render environment > redeploy.
+
+NO LOCAL NODE.JS REQUIRED. DO NOT USE GITHUB PAGES FOR THIS VERSION.
+See README.md for full details.

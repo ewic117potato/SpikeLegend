@@ -1,0 +1,16 @@
+{
+  "name": "spike-legends",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Anime-inspired volleyball squad builder with AI and live friend duels",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test/server-smoke.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
